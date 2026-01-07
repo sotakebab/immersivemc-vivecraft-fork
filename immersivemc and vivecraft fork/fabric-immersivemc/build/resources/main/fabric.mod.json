@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "immersivemc",
+  "version": "1.6.0-alpha1",
+  "name": "ImmersiveMC",
+  "description": "Minimizes the need to interact with GUIs in Minecraft!
+
+Works great both in and out of VR!
+
+Thanks to NahNotFox for the bundle bag model (the default) and the written book texture!
+
+Thanks to:
+- andreiqwer for adding support for resizing item guides and a bugfix!
+- Blocker226 for fixing Z-fighting issues on several Immersives!
+- yaosiqian for Simplified Chinese translations!
+- Yermak for the Russian translations!
+- DadoSpeedy for the German translations!
+- Detective Scar for the Dutch translations!
+
+Thanks to the Vivecraft developers for inspiration for the backpack, and to various members of the ImmersiveMC Discord for ideas!
+
+Thanks to the guide from leo3418 for the original config screen implementation!",
+  "authors": [
+    "hammy275"
+  ],
+  "license": "GNU LGPLv3",
+  "icon": "immersivemc_logo.png",
+  "environment": "*",
+  "contact": {
+    "homepage": "https://hammy275.com/immersivemcwiki",
+    "issues": "https://hammy275.com/immersivemcissues"
+  },
+  "entrypoints": {
+    "main": [
+      "com.hammy275.immersivemc.fabric.ImmersiveMCFabric"
+    ],
+    "modmenu": [
+      "com.hammy275.immersivemc.fabric.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.20.2"
+  },
+  "mixins": [
+    "mixins.immersivemc.json",
+    "mixins.fabric.immersivemc.json"
+  ]
+}

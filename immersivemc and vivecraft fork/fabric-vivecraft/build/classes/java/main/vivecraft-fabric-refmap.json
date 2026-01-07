@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "org/vivecraft/fabric/mixin/FabricGameRendererMixin": {
+      "<init>": "Lnet/minecraft/class_757;<init>(Lnet/minecraft/class_310;Lnet/minecraft/class_759;Lnet/minecraft/class_4599;Lnet/minecraft/class_776;)V",
+      "Lnet/minecraft/client/gui/render/GuiRenderer;<init>(Lnet/minecraft/client/gui/render/state/GuiRenderState;Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;Lnet/minecraft/client/renderer/SubmitNodeCollector;Lnet/minecraft/client/renderer/feature/FeatureRenderDispatcher;Ljava/util/List;)V": "Lnet/minecraft/class_11228;<init>(Lnet/minecraft/class_11246;Lnet/minecraft/class_4597$class_4598;Lnet/minecraft/class_11659;Lnet/minecraft/class_11684;Ljava/util/List;)V"
+    },
+    "org/vivecraft/fabric/mixin/FabricMinecraftVRMixin": {
+      "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V",
+      "Lnet/minecraft/client/ResourceLoadStateTracker;startReload(Lnet/minecraft/client/ResourceLoadStateTracker$ReloadReason;Ljava/util/List;)V": "Lnet/minecraft/class_6360;method_36563(Lnet/minecraft/class_6360$class_6362;Ljava/util/List;)V",
+      "runTick": "Lnet/minecraft/class_310;method_1523(Z)V"
+    },
+    "org/vivecraft/fabric/mixin/world/level/biome/BiomeAccessor": {
+      "climateSettings": "field_26393:Lnet/minecraft/class_1959$class_5482;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "org/vivecraft/fabric/mixin/FabricGameRendererMixin": {
+        "<init>": "Lnet/minecraft/class_757;<init>(Lnet/minecraft/class_310;Lnet/minecraft/class_759;Lnet/minecraft/class_4599;Lnet/minecraft/class_776;)V",
+        "Lnet/minecraft/client/gui/render/GuiRenderer;<init>(Lnet/minecraft/client/gui/render/state/GuiRenderState;Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;Lnet/minecraft/client/renderer/SubmitNodeCollector;Lnet/minecraft/client/renderer/feature/FeatureRenderDispatcher;Ljava/util/List;)V": "Lnet/minecraft/class_11228;<init>(Lnet/minecraft/class_11246;Lnet/minecraft/class_4597$class_4598;Lnet/minecraft/class_11659;Lnet/minecraft/class_11684;Ljava/util/List;)V"
+      },
+      "org/vivecraft/fabric/mixin/FabricMinecraftVRMixin": {
+        "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V",
+        "Lnet/minecraft/client/ResourceLoadStateTracker;startReload(Lnet/minecraft/client/ResourceLoadStateTracker$ReloadReason;Ljava/util/List;)V": "Lnet/minecraft/class_6360;method_36563(Lnet/minecraft/class_6360$class_6362;Ljava/util/List;)V",
+        "runTick": "Lnet/minecraft/class_310;method_1523(Z)V"
+      },
+      "org/vivecraft/fabric/mixin/world/level/biome/BiomeAccessor": {
+        "climateSettings": "field_26393:Lnet/minecraft/class_1959$class_5482;"
+      }
+    }
+  }
+}

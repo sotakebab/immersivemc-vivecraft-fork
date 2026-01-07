@@ -1,0 +1,5 @@
+v1	named	intermediary
+FIELD	org/vivecraft/fabric/mixin/FabricGameRendererMixin	Lnet/minecraft/client/renderer/RenderBuffers;	renderBuffers	field_20948
+FIELD	org/vivecraft/fabric/mixin/FabricMinecraftVRMixin	Lnet/minecraft/client/DeltaTracker$Timer;	deltaTracker	field_52750
+FIELD	org/vivecraft/fabric/mixin/FabricMinecraftVRMixin	Lnet/minecraft/server/packs/resources/ReloadableResourceManager;	resourceManager	field_1745
+FIELD	org/vivecraft/fabric/mixin/FabricMinecraftVRMixin	Z	noRender	field_1743

@@ -1,0 +1,14 @@
+{
+  "projectPath": ":common",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\common\\build\\classes\\java\\test",
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\common\\build\\resources\\test"
+    ],
+    "main": [
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\common\\build\\classes\\java\\main",
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\common\\build\\resources\\main",
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\common\\build\\devlibs\\immersivemc-1.6.0-alpha1-dev.jar"
+    ]
+  }
+}

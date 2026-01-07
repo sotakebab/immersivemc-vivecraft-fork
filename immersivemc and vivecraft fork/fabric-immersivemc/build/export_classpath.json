@@ -1,0 +1,14 @@
+{
+  "projectPath": ":fabric",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\fabric\\build\\classes\\java\\test",
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\fabric\\build\\resources\\test"
+    ],
+    "main": [
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\fabric\\build\\classes\\java\\main",
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\fabric\\build\\resources\\main",
+      "C:\\Users\\Muneeb\\Downloads\\immersive-mc-1.6.0-alpha1\\immersive-mc-1.6.0-alpha1\\fabric\\build\\devlibs\\immersivemc-1.6.0-alpha1-dev.jar"
+    ]
+  }
+}
