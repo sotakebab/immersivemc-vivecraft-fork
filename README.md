@@ -12,5 +12,3 @@ Vivecraft original repo https://github.com/Vivecraft/VivecraftMod
 
 ## License
 Follow the licenses of the original projects:  
-- ImmersiveMC: see [LICENSE](https://github.com/hammy275/immersive-mc/blob/master/LICENSE)  
-- Vivecraft: see [LICENSE](https://github.com/Vivecraft/VivecraftMod/blob/master/LICENSE)
