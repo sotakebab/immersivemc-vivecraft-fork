@@ -1,20 +1,14 @@
-# ImmersiveMC + Vivecraft Modified Fork
+ImmersiveMC 1.21.10 Fork
 
-This repository contains the modified source code for **ImmersiveMC** and **Vivecraft** to fix the arm/body flickering issue in VR when walking with a player model visible.
+This repository is a fork of ImmersiveMC 1.21.10.
 
-## Based on
-- [ImmersiveMC original repo](https://github.com/hammy275/immersive-mc)  
-- [Vivecraft original repo](https://github.com/Vivecraft/VivecraftMod)
+Note: This version has been modified to work with a modified Vivecraft version. Both modifications are necessary to prevent arm/body jittering in VR and ensure proper player model display.
 
-## Changes
-- Fix for arm jitter/flicker in first-person VR view
-- Ensure consistent player model display without stuttering
-- No other gameplay changes
+Based on:
 
-## Notes
+ImmersiveMC original repo https://github.com/hammy275/immersive-mc
 
-- Intended for review, debugging, or contributing to original mods.  
-- Please respect the original license when using or distributing.
+Vivecraft original repo https://github.com/Vivecraft/VivecraftMod
 
 ## License
 Follow the licenses of the original projects:  
