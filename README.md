@@ -12,7 +12,7 @@ This repository contains the modified source code for **ImmersiveMC** and **Vive
 - No other gameplay changes
 
 ## Notes
-- This repo contains **source code only** (no compiled JARs).  
+
 - Intended for review, debugging, or contributing to original mods.  
 - Please respect the original license when using or distributing.
 
